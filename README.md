@@ -20,7 +20,7 @@ A secure and customizable password generator built using React. It allows users 
 - React.js
 - JavaScript (ES6+)
 - HTML5 & CSS3
-- Tailwind CSS (if used)
+- Tailwind CSS 
 
 ---
 
